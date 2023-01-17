@@ -13,4 +13,4 @@ this link https://gist.github.com/jbltx/db1f4df72654e2b2339956758ee0ce34
 
 4. Inside your Qt application create a server using TCP connection to send data to the unity side.
 
-5. After that create unity as TCP client connection in unity and change the controls based on the input from tcp client connection.
+5. After that create unity as TCP client connection in unity and change the controls based on the input from tcp client connection follow this link https://github.com/Ip-3/SixAxisbot_UnityClient .
