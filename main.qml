@@ -7,8 +7,8 @@ Rectangle {
     visible:true
     anchors.centerIn: parent
     color: "orange"
-    property var forwardmodel: myclass.forwardModel//["pole1forward","pole2forward","pole3forward","pole4forward"]
-    property var backwardmodel: myclass.backwardModel//["pole1backward","pole2backward","pole3backward","pole4backward"]
+    property var forwardmodel: myclass.forwardModel
+    property var backwardmodel: myclass.backwardModel
 
     ColumnLayout{
         spacing: 20
